@@ -24,7 +24,7 @@ msgstr "Impossible d'initialiser l'aperçu PDF."
 
 #: ../data/ui/gummi.glade.h:2
 msgid "File:"
-msgstr "Fichier:"
+msgstr "Fichier :"
 
 #: ../data/ui/gummi.glade.h:3
 msgid "Caption:"
@@ -32,15 +32,15 @@ msgstr "Légende :"
 
 #: ../data/ui/gummi.glade.h:4
 msgid "Label:"
-msgstr "Référence:"
+msgstr "Référence :"
 
 #: ../data/ui/gummi.glade.h:5
 msgid "Scale:"
-msgstr "Échelle:"
+msgstr "Échelle :"
 
 #: ../data/ui/gummi.glade.h:6
 msgid "Style:"
-msgstr "Style:"
+msgstr "Style :"
 
 #: ../data/ui/gummi.glade.h:7
 msgid "Unbracketed"
@@ -228,7 +228,7 @@ msgstr "Options de compilation"
 
 #: ../data/ui/gummi.glade.h:60
 msgid "_Cleanup Build Files"
-msgstr ""
+msgstr "_Nettoyer les fichiers de construction"
 
 #: ../data/ui/gummi.glade.h:61
 msgid "Run _Makeindex"
@@ -281,7 +281,7 @@ msgstr "Aid_e"
 
 #: ../data/ui/gummi.glade.h:73
 msgid "User _Guide"
-msgstr ""
+msgstr "_Guide utilisateur"
 
 #: ../data/ui/gummi.glade.h:74
 msgid "New"
@@ -365,15 +365,15 @@ msgstr "Log de Construction"
 
 #: ../data/ui/gummi.glade.h:94
 msgid "Nr of files:"
-msgstr "Nombre de fichiers:"
+msgstr "Nombre de fichiers :"
 
 #: ../data/ui/gummi.glade.h:95
 msgid "Root path:"
-msgstr "Chemin de la racine:"
+msgstr "Chemin de la racine :"
 
 #: ../data/ui/gummi.glade.h:96
 msgid "Project name:"
-msgstr "Nom du projet:"
+msgstr "Nom du projet :"
 
 #: ../data/ui/gummi.glade.h:97 ../data/ui/prefs.glade.h:28
 msgid "   "
@@ -409,7 +409,7 @@ msgstr "Projet"
 
 #: ../data/ui/gummi.glade.h:105
 msgid "Filename:"
-msgstr "Nom du fichier:"
+msgstr "Nom du fichier :"
 
 #. NOTE gtk3s bar doesn't place text inside the widget anymore :/
 #. gtk_progress_bar_set_text (gummi->biblio->progressbar,
@@ -420,7 +420,7 @@ msgstr "aucun"
 
 #: ../data/ui/gummi.glade.h:107
 msgid "References:"
-msgstr "Références:"
+msgstr "Références :"
 
 #: ../data/ui/gummi.glade.h:108 ../src/gui/gui-main.c:637
 msgid "N/A"
@@ -468,7 +468,7 @@ msgstr "Année"
 
 #: ../data/ui/gummi.glade.h:119
 msgid "filter:"
-msgstr "filtre:"
+msgstr "filtre :"
 
 #: ../data/ui/gummi.glade.h:120
 msgid "Document statistics"
@@ -480,7 +480,7 @@ msgstr "Nom du document"
 
 #: ../data/ui/gummi.glade.h:122
 msgid "Words in:"
-msgstr "Mots dans:"
+msgstr "Mots dans :"
 
 #: ../data/ui/gummi.glade.h:123
 msgid "       "
@@ -496,19 +496,19 @@ msgstr "Entêtes"
 
 #: ../data/ui/gummi.glade.h:126
 msgid "float captions"
-msgstr "Légendes des flotants"
+msgstr "Légendes des flottants"
 
 #: ../data/ui/gummi.glade.h:127
 msgid "Number of:"
-msgstr "Nombre:"
+msgstr "Nombre :"
 
 #: ../data/ui/gummi.glade.h:128
 msgid "floats"
-msgstr "environnements flottant"
+msgstr "environnements flottants"
 
 #: ../data/ui/gummi.glade.h:129
 msgid "math environments"
-msgstr "environnements mathémtiques"
+msgstr "environnements mathématiques"
 
 #: ../data/ui/gummi.glade.h:130
 msgid "Find"
@@ -516,11 +516,11 @@ msgstr "Rechercher"
 
 #: ../data/ui/gummi.glade.h:131
 msgid "Search for:"
-msgstr "Rechercher:"
+msgstr "Rechercher :"
 
 #: ../data/ui/gummi.glade.h:132
 msgid "Replace with:"
-msgstr "Remplacer par:"
+msgstr "Remplacer par :"
 
 #: ../data/ui/gummi.glade.h:133
 msgid "Match entire word only"
@@ -532,7 +532,7 @@ msgstr "Rechercher en arrière"
 
 #: ../data/ui/gummi.glade.h:135
 msgid "Match case"
-msgstr "Sensible à la case"
+msgstr "Sensible à la casse"
 
 #: ../data/ui/gummi.glade.h:136
 msgid "_Replace"
@@ -586,11 +586,11 @@ msgstr "Ouvrir les modèles sélectionnés"
 
 #: ../data/ui/gummi.glade.h:149
 msgid "Rows:"
-msgstr "Lignes:"
+msgstr "Lignes :"
 
 #: ../data/ui/gummi.glade.h:150
 msgid "Columns:"
-msgstr "Colonnes:"
+msgstr "Colonnes :"
 
 #: ../data/ui/gummi.glade.h:151
 msgid "Bracket:"
@@ -598,11 +598,11 @@ msgstr "Délimiteur :"
 
 #: ../data/ui/prefs.glade.h:1
 msgid "compile when idle for "
-msgstr "compiler quand inactif depuis: "
+msgstr "compiler quand inactif depuis : "
 
 #: ../data/ui/prefs.glade.h:2
 msgid "compile every"
-msgstr "compiler toutes les:"
+msgstr "compiler toutes les :"
 
 #: ../data/ui/prefs.glade.h:23
 msgid "Always"
@@ -658,7 +658,7 @@ msgstr "Fin de tabulations"
 
 #: ../data/ui/prefs.glade.h:37
 msgid "Tab width:"
-msgstr "Largeur des tabulations:"
+msgstr "Largeur des tabulations :"
 
 #: ../data/ui/prefs.glade.h:38
 msgid "Insert _spaces instead of tabs"
@@ -686,7 +686,7 @@ msgstr "Enregistrement du fichier"
 
 #: ../data/ui/prefs.glade.h:44
 msgid "_Autosave files every"
-msgstr "Enregistrer _automatique toutes les:"
+msgstr "Enregistrer _automatiquement toutes les :"
 
 #: ../data/ui/prefs.glade.h:45
 msgid "minutes"
@@ -748,11 +748,11 @@ msgstr "Options de typesetter"
 #: ../data/ui/prefs.glade.h:59
 #, fuzzy
 msgid "Use shell-escape"
-msgstr "--shell-escape"
+msgstr "Utiliser shell-escape"
 
 #: ../data/ui/prefs.glade.h:60
 msgid "Enable SyncTeX"
-msgstr "Actier SyncTeX"
+msgstr "Activer SyncTeX"
 
 #: ../data/ui/prefs.glade.h:61
 msgid "Compilation steps"
@@ -866,7 +866,7 @@ msgstr "Centrer"
 #: ../data/ui/snippets.glade.h:10
 #, fuzzy
 msgid "filename"
-msgstr "Nom du fichier:"
+msgstr "Nom du fichier :"
 
 #: ../data/ui/snippets.glade.h:11
 msgid "basename"
@@ -882,11 +882,11 @@ msgstr "    "
 
 #: ../data/ui/snippets.glade.h:14
 msgid "Tab trigger:"
-msgstr "Mot déclencheur:"
+msgstr "Mot déclencheur :"
 
 #: ../data/ui/snippets.glade.h:15
 msgid "Shortcut key:"
-msgstr "Touche de raccourci:"
+msgstr "Touche de raccourci :"
 
 #: ../src/gui/gui-import.c:173
 #, c-format
@@ -913,8 +913,8 @@ msgid ""
 "the Build log tab.\n"
 msgstr ""
 "Le document actif contient des erreurs. L'aperçu instantané\n"
-"va fonctionne une fois que vous aurez corriger les erreurs.\n"
-"Des informations supplémentaires peuvent être disponibles dans\n"
+"va fonctionner une fois que vous aurez corrigé les erreurs.\n"
+"Des informations supplémentaires sont disponibles dans\n"
 "l'onglet Build log.\n"
 
 #: ../src/gui/gui-infoscreen.c:133
@@ -924,6 +924,10 @@ msgid ""
 "load the default text or use the Project menu to add\n"
 "it to an active project.\n"
 msgstr ""
+"Le document actuellement actif semble être un\n"
+"un fichier LaTeX non valide. Vous pouvez continuer à travailler dessus,\n"
+"charger le texte par défaut ou utiliser le menu Projet pour ajouter\n"
+"à un projet actif. \ n"
 
 #: ../src/gui/gui-infoscreen.c:138
 msgid ""
@@ -933,23 +937,30 @@ msgid ""
 "live preview function will not resume until Gummi\n"
 "is restarted.\n"
 msgstr ""
+"Le programme de compilation sélectionné est introuvable.\n"
+"Veuillez restaurer le programme ou sélectionner une option\n"
+"alternative de typesetter dans le menu Préférences.\n"
+"La fonction d'aperçu instantané ne reprendra pas avant que Gummi\n"
+"ait redémarré.\n"
 
 #: ../src/gui/gui-main.c:340
 #, fuzzy, c-format
 msgid "Swap file exists for %s, do you want to recover from it?"
 msgstr ""
-"Le fichier d'échange existe pour %s, êtes-vous sur de vouloir restorer "
-"depuis ce fichier?"
+"Le fichier d'échange existe pour %s, êtes-vous sûr de vouloir restaurer "
+"depuis ce fichier ?"
 
 #: ../src/gui/gui-main.c:392 ../src/latex.c:260
 msgid "The file already exists. Overwrite?"
-msgstr "Le fichier existe déjà. Voulez-vous le remplacer?"
+msgstr "Le fichier existe déjà. Voulez-vous le remplacer ?"
 
 #: ../src/gui/gui-main.c:410
 msgid ""
 "The content of the file has been changed externally. Saving will remove any "
 "external modifications."
 msgstr ""
+"Le contenu du fichier a été modifié en externe. L'enregistrement supprimera toute"
+"modification externe".
 
 #. add Loading message to status bar
 #: ../src/gui/gui-main.c:513
@@ -976,12 +987,12 @@ msgstr "aucun fichier de bibliographie détecté"
 
 #: ../src/gui/gui-main.c:734
 msgid "This document has unsaved changes"
-msgstr ""
+msgstr "Ce document a des modifications non enregistrées"
 
 #: ../src/gui/gui-main.c:737
 #, fuzzy, c-format
 msgid "Do you want to save the changes to %s before closing?"
-msgstr "Voulez-vous enregistrer les modifications apportées au document?"
+msgstr "Voulez-vous enregistrer les modifications apportées à %s avant la fermeture ?"
 
 #: ../src/gui/gui-main.c:738
 #, fuzzy
@@ -990,12 +1001,12 @@ msgstr "Document"
 
 #: ../src/gui/gui-main.c:741
 msgid "_Close without Saving"
-msgstr ""
+msgstr "_Fermer sans enregistrer"
 
 #: ../src/gui/gui-main.c:742 ../src/gui/gui-main.c:780
 #: ../src/gui/gui-main.c:818
 msgid "_Cancel"
-msgstr ""
+msgstr "_Annuler"
 
 #: ../src/gui/gui-main.c:743
 #, fuzzy
@@ -1022,7 +1033,7 @@ msgstr "Fichiers du projet Gummi"
 #: ../src/gui/gui-main.c:781
 #, fuzzy
 msgid "_Open"
-msgstr "Ouvrir"
+msgstr "_Ouvrir"
 
 #: ../src/gui/gui-main.c:806
 msgid "Save LaTeX document"
@@ -1044,12 +1055,12 @@ msgstr "Créer un nouveau projet"
 #: ../src/gui/gui-main.c:819
 #, fuzzy
 msgid "_Save"
-msgstr "Enregistrer"
+msgstr "_Enregistrer"
 
 #: ../src/gui/gui-main.c:843
 #, fuzzy, c-format
 msgid "Unsaved Document"
-msgstr "Document non sauvegardé %d"
+msgstr "Document non sauvegardé"
 
 #: ../src/gui/gui-main.c:864
 msgid "LaTeX files"
@@ -1065,7 +1076,7 @@ msgstr "Toutes les images"
 
 #: ../src/gui/gui-main.c:896
 msgid "Bibtex files"
-msgstr "Fichier bibtex"
+msgstr "Fichiers bibtex"
 
 #: ../src/gui/gui-main.c:902
 msgid "Gummi project files"
@@ -1074,7 +1085,7 @@ msgstr "Fichiers du projet Gummi"
 #: ../src/gui/gui-menu.c:187
 #, c-format
 msgid "Error loading recent file: %s"
-msgstr "Erreur lors du chargement du fichier récent: %s"
+msgstr "Erreur lors du chargement du fichier récent : %s"
 
 #: ../src/gui/gui-menu.c:425
 #, fuzzy
@@ -1137,7 +1148,7 @@ msgstr "de %d"
 #: ../src/gui/gui-snippets.c:325
 msgid ""
 "Duplicate activation tab trigger dectected! Please choose another one.\n"
-msgstr "Le mot déclencheur est déjà utilisé! Choisissez en un autre.\n"
+msgstr "Le mot déclencheur est déjà utilisé ! Choisissez en un autre.\n"
 
 #: ../src/gui/gui-snippets.c:339
 msgid "Type a new shortcut"
@@ -1151,21 +1162,21 @@ msgstr ""
 
 #: ../src/gui/gui-tabmanager.c:99
 msgid "_Yes"
-msgstr ""
+msgstr "_Oui"
 
 #: ../src/gui/gui-tabmanager.c:101
 msgid "_No"
-msgstr ""
+msgstr "_Non"
 
 #: ../src/editor.c:609
 msgid "Top reached, search from bottom?"
 msgstr ""
-"Le haut du fichier a été atteint, voulez-vous rechercher depuis le bas?"
+"Le haut du fichier a été atteint, voulez-vous rechercher depuis le bas ?"
 
 #: ../src/editor.c:616
 msgid "Bottom reached, search from top?"
 msgstr ""
-"Le bas du fichier a été atteint, voulez-vous rechercher depuis le haut?"
+"Le bas du fichier a été atteint, voulez-vous rechercher depuis le haut ?"
 
 #: ../src/iofunctions.c:130
 #, c-format
@@ -1183,7 +1194,7 @@ msgstr ""
 
 #: ../src/iofunctions.c:241
 msgid "Can not convert text to UTF-8!\n"
-msgstr "Ne peut pas convertir le texte en UTF-8!\n"
+msgstr "Ne peut pas convertir le texte en UTF-8 !\n"
 
 #: ../src/latex.c:267
 #, fuzzy, c-format
@@ -1292,4 +1303,4 @@ msgstr ""
 
 # (#define in environment.h)
 #~ msgid "Simple LaTeX Editor for GTK+"
-#~ msgstr "GTK+ a son editeur LaTeX simple!"
+#~ msgstr "Éditeur LaTeX simple pour GTK+"
